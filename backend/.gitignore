@@ -1,0 +1,23 @@
+# Python compile stuff
+__pycache__
+*.pyc
+
+# Environments
+env/
+.env
+
+# Editors and IDE
+.idea
+.vscode/
+
+# Mac-Stuff
+.DS_Store
+
+# Own directories
+emails/
+.gitsecret/keys/random_seed
+!*.secret
+
+
+# keys
+kloud_credentials.json
